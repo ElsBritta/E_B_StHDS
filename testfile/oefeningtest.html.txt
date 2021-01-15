@@ -3,6 +3,7 @@
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 </meta></head>
 <body>
+dit is een test
 <p>Het schiereiland Manhattan vormt
       &#233;&#233;n van de vijf stadsdelen van New York. Dit stadsdeel staat
       bekend om zijn wolkenkrabbers, brede avenues, het financi&#235;le centrum
